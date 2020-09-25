@@ -2,6 +2,10 @@ textarea {
     resize: vertical;
 }
 
+.text-white {
+    color:#FFF !important;
+}
+
 button:hover, button > span:hover {
     cursor:pointer;
 }
@@ -20,3 +24,4 @@ button:hover, button > span:hover {
 li.list-group-item:hover{
     background-color: rgba(138, 119, 119, 0.4);
 }
+
