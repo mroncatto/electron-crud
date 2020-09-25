@@ -1,0 +1,32 @@
+{
+  "name": "electron-crud",
+  "version": "1.0.0",
+  "description": "A simple CRUD with Electron, Photon and MongoDB",
+  "main": "app/index.js",
+  "scripts": {
+    "start":"electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mroncatto/electron-crud.git"
+  },
+  "keywords": [
+    "crud",
+    "electron",
+    "node",
+    "mongodb",
+    "javascript",
+    "photon"
+  ],
+  "author": "Marcelo Roncatto Ficagna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mroncatto/electron-crud/issues"
+  },
+  "homepage": "https://github.com/mroncatto/electron-crud#readme",
+  "dependencies": {
+    "electron": "^10.1.2",
+    "mongoose": "^5.10.7"
+  }
+}

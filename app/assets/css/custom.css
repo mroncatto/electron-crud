@@ -1,0 +1,22 @@
+textarea {
+    resize: vertical;
+}
+
+button:hover, button > span:hover {
+    cursor:pointer;
+}
+
+.sidebar{
+    background: rgba(61, 59, 59, 0.6);
+}
+.sidebar, .pane {
+    padding: 5px;
+}
+
+.sidebar label{
+    font-weight: bold;
+}
+
+li.list-group-item:hover{
+    background-color: rgba(138, 119, 119, 0.4);
+}
